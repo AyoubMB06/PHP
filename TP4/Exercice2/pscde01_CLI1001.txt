@@ -1,0 +1,18 @@
+20121109-000001//CLI1001//11-09-2012//Sucre morceaux//1//6//13-09-2012//1,Rue des Colibris Agadir
+
+20121109-000001//CLI1001//11-09-2012//Huile végétale//1//15//13-09-2012//1,Rue des Colibris Agadir
+
+20121109-000001//CLI1001//11-09-2012//Mais Géant 250g//1//4//13-09-2012//1,Rue des Colibris Agadir
+
+20121109-000001//CLI1001//11-09-2012//Eau Sidi Ali//5//4//13-09-2012//1,Rue des Colibris Agadir
+
+20121309-000002//CLI1001//11-09-2012//Fanta 1.5 L//1//5//13-09-2012//1,Rue des Colibris Agadir
+
+20121309-000002//CLI1001//11-09-2012//Coca Cola 1.5L//2//9//13-09-2012//1,Rue des Colibris Agadir
+
+20121010-000003//CLI1001//11-09-2012//Oignons//2//4//13-09-2012//1,Rue des Colibris Agadir
+
+20121010-000003//CLI1001//11-09-2012//Courgettes//2//3//13-09-2012//1,Rue des Colibris Agadir
+
+20121010-000003//CLI1001//11-09-2012//Pomme Golden//1//12//13-09-2012//1,Rue des Colibris Agadir
+
